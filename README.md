@@ -1,3 +1,3 @@
 # Ping-Game
 
-https://github.com/raj586sc/Ping-Game
+https://raj586sc.github.io/Ping-Game/
